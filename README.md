@@ -1,2 +1,2 @@
-# PortfolioScripts
-Collection of C# scripts written by me
+# Scripts
+Collection of C# scripts for unity written by me
